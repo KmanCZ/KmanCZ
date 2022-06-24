@@ -1,7 +1,7 @@
 Hi 👋 My name is Kristián Řehoř
 ===============================
 
-* 🌍  I'm based in Česko
+* 🌍  I'm based in Czechia
 * 🖥️  See my portfolio at [kmancz.github.io](http://kmancz.github.io/)
 * ✉️  You can contact me at [kmancz.kiki@gmail.com](mailto:kmancz.kiki@gmail.com)
 * 🚀  I'm currently working on [Lara (Laravel blogging site)](http://github.com/KmanCZ/laravel-blogging-site)
